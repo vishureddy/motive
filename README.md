@@ -1,2 +1,2 @@
-# motive
-Static "Motive to Move" Quote Generator
+# Motive
+Static "Motive to Move" Quote Generaton site
